@@ -1,2 +1,9 @@
-Hello from Github
-Hello from vs code
+<html>
+
+<head>Sunil Sample HTML head</head>
+
+<body>
+    Sunil Sample HTML Body
+</body>
+
+</html>
